@@ -1,4 +1,4 @@
-# 📊 Workforce Productivity Intelligence Dashboard
+# 📊 Workforce Performance Intelligence Dashboard
 
 🚀 **End-to-End Data Analytics Project | Excel → SQL → Power BI**
 
@@ -75,7 +75,7 @@ The modeled data was imported into Power BI to build an **interactive 3-page int
 - Weekly Performance Chart  
 - Gender Distribution Chart  
 - Age Group Performance Chart  
-- Team Performance Charts  
+- Team Performance Treemap Charts  
 - Top 5 & Bottom 5 Employees  
 - Top 5 & Bottom 5 Supervisors  
 - Efficiency Variance Comparison  
@@ -149,7 +149,27 @@ The modeled data was imported into Power BI to build an **interactive 3-page int
 ✔ Improve early-week productivity planning  
 
 ---
+# 📁 Project Folder Structure
 
+```
+factory/
+│
+├── data/
+│   ├── factory.csv
+│   └── factory.xlsx
+│
+├── sql/
+│   └── factory.sql
+│
+├── dashboard/
+│   └── factory.pbix
+│
+└── images/
+    ├── Executive Overview Dashboard.png
+    ├── Workforce Analytics Center.png
+    └── Leadership Performance Dashboard.png
+```
+--- 
 # 🎯 Skills Demonstrated
 
 - Data Cleaning  
@@ -163,21 +183,26 @@ The modeled data was imported into Power BI to build an **interactive 3-page int
 
 ---
 
+
+ 
 # 📸 Dashboard Screenshots
 
-*(Add images here in GitHub)*
+## Executive Overview Dashboard
+![Executive Overview](images/Executive Overview Dashboard.png)
 
-- Executive_Overview.png  
-- Workforce_Stability.png  
-- Leadership_Performance.png  
+## Workforce Analytics Center
+![Workforce Analytics](images/Workforce Analytics Center.png)
+
+## Leadership Performance Dashboard
+![Leadership Performance](images/Leadership Performance Dashboard.png)
 
 ---
 
-# 👨‍💻 Authors
+## 👨‍💻 Author
 
 **Ashwin Nagulkar**  
-**Pratik Bansode**  
-S.Y.B.B.A. (CA) — Data Analytics Project
+Data Analysis | EXCEL | SQL | Power BI Enthusiast
+
 
 ---
 
@@ -190,5 +215,3 @@ This dashboard transforms factory data into a **management decision system**, en
 🎯 Leadership performance tracking  
 
 ---
-
-> “Data becomes valuable only when it drives action.”
